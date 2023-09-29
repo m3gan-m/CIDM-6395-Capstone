@@ -14,13 +14,12 @@ Develop the 2-3 page assessment of your competency in Data Analytics with the el
 *Reference link for the WTAMU Graduate Catalog which describes the requirements of the MS-CISBA program: [LINK](https://catalog.wtamu.edu/preview_program.php?catoid=30&poid=4839&returnto=2643)*
 
 >The MS CISBA program is designed for students who want to improve their understanding of computer applications in the following areas:
->Quantitative analysis<br>
->Data analytics<br>
->Computing and data mining<br>
->Web and mobile development<br>
->Business integration and cybersecurity<br>
->Technology planning and project management
->⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
+>    - Quantitative analysis<br>
+>    - Data analytics<br>
+>    - Computing and data mining<br>
+>    - Web and mobile development<br>
+>    - Business integration and cybersecurity<br>
+>    - Technology planning and project management
 
 ## FOUR AREAS
 AREA                      | DESCRIPTION
