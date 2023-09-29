@@ -36,6 +36,8 @@ Courses taken: CIDM 6303, CIDM 6325        | An entity is a thing that can have 
 Courses taken: CIDM 6340, CIDM 6341        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
 &nbsp;
 &nbsp;
+
+
 **Contribution to Capstone**                 | *How the four areas are integratable*
 •	Why Data Analytics is integratable with the other areas       | Add here
 •	How Data Analytics is integratable with the other areas       | Add here
