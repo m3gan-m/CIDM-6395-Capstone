@@ -1,12 +1,9 @@
 # CIDM6395 - Assignment 1
 Develop the 2-3 page assessment of your competency in Data Analytics with the elements of supporting evidence.  
-Use Markdown to create this as this work, and all work for the portofolio, will live in a Github Repository with an Organization I create that will be dedicated for our work. Also, be prepared to meet with me, one-on-one - in person or via Zoom - so that we can review your work.
-You will use Markdown for this: https://betterprogramming.pub/master-markdown-in-ten-minutes-ce9721c51eb
-
 
 # Evolution 1 - Assessing Data Analytics
 
-#code block 
+#code block
 For each evolution, I will want you to assess and develop an account of the follow for each of the aspects of developing a portfolio of what you've accomplished in the curriculum:&nbsp;
 •	What do you know - Competencies, skills, and knowledge where you are the most confident and proficient&nbsp;
 •	Where are you weak - Competencies, skills, and knowledge where you are the lest confident and proficient&nbsp;
