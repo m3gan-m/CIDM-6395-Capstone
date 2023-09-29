@@ -51,12 +51,12 @@ CIDM 6341        | [https://github.com/m3gan-m/CIDM-6341](https://github.com/m3g
 &nbsp;
 
 
-##  Contribution to Capstone  *How the four areas are integratable*
+##  Contribution to Capstone  
 QUESTION                      | RESPONSE
 ---                             | ---
-•	Why Data Analytics is integratable with the other areas       | Add here
-•	How Data Analytics is integratable with the other areas       | Add here
-•	How Data Analytics is integratable with your prior work       | Add here
+•	Why Data Analytics is integratable with the other areas       | *The application of business intelligence using logistic regression, linear regression modeling, hypotheses testing, machine learning tools, and predictive modeling all builds an end goal of practical application of statistical tools in business for any MS CISBA student and is why Data Analytics is a critical segement of the degree plan.*
+•	How Data Analytics is integratable with the other areas       | *The study of the creation, acquisition and analysis of data for the purpose of decision support is key in shaping how Data Anaytics integrates alongside the three other areas of Data Mining and Management, Systems development and Networking and Cybersecurity.*
+•	How Data Analytics is integratable with your prior work       | *In my career, understanding how to use fact-based analytics in support of business strategy, how to gather relevant data, and to use specific software tools to analyze data is critical to performing the roles I have held and aspire to continue growth in.*
 •	What new statement can you make that that demonstrates that these all fit       | Add here
 &nbsp;
 
