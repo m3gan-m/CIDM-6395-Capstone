@@ -23,10 +23,10 @@ Defintion        | An entity is a thing that can have data stored about it. It c
 &nbsp;
 &nbsp;
 **Contribution to Capstone**                 | *How the four areas are integratable*
-⋅⋅⋅ •	Why Data Analytics is integratable with the other areas       | Add here
-⋅⋅⋅•	How Data Analytics is integratable with the other areas       | Add here
-⋅⋅⋅•	How Data Analytics is integratable with your prior work       | Add here
-⋅⋅⋅•	What new statement can you make that that demonstrates that these all fit       | Add here
+•	Why Data Analytics is integratable with the other areas       | Add here
+•	How Data Analytics is integratable with the other areas       | Add here
+•	How Data Analytics is integratable with your prior work       | Add here
+•	What new statement can you make that that demonstrates that these all fit       | Add here
 &nbsp;
 
 &nbsp;
@@ -38,4 +38,6 @@ Preview
 
 ![myimage-alt-tag](https://github.com/m3gan-m/CIDM-6325/blob/06135ce2f99b222cf9e59f719f29b857d0d4de1c/Assignments/degreechecklist/Assignment%202%20Modeling.drawio.png)
 
-This README file is constructed using [MarkDown](https://www.markdownguide.org/basic-syntax).  Here is another good [Markdown reference](https://commonmark.org/help/).
+This README file is constructed using [MarkDown](https://www.markdownguide.org/basic-syntax).  Here is another good .
+⋅⋅⋅Adam P's markdown cheatsheet: [LINK]([https://commonmark.org/help/](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+⋅⋅⋅Common Markdown help list: [LINK]([https://commonmark.org/help/](https://commonmark.org/help/)https://commonmark.org/help/)
