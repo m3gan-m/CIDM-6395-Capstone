@@ -1,5 +1,7 @@
-# CIDM6325 - Assignment 2
-README Outline: Create a README.MD file which contains images of the diagrams you made for this assignment and a brief description of each.  You will use Markdown for this: https://betterprogramming.pub/master-markdown-in-ten-minutes-ce9721c51eb
+# CIDM6395 - Assignment 1
+Develop the 2-3 page assessment of your competency in Data Analytics with the elements of supporting evidence.  
+Use Markdown to create this as this work, and all work for the portofolio, will live in a Github Repository with an Organization I create that will be dedicated for our work. Also, be prepared to meet with me, one-on-one - in person or via Zoom - so that we can review your work.
+You will use Markdown for this: https://betterprogramming.pub/master-markdown-in-ten-minutes-ce9721c51eb
 
 
 # Degree Checklist Entity Relationship Diagram (ERD)
