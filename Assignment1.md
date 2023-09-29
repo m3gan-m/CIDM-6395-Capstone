@@ -27,8 +27,8 @@ AREA                      | DESCRIPTION
 ***Data Analytics***        | ***&nbsp;***
 Courses taken: CIDM 5310, CIDM 6308        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
 Samples of work        | &nbsp;
-    - CIDM 5310        | [https://github.com/m3gan-m/CIDM5310](https://github.com/m3gan-m/CIDM5310)
-    - CIDM 6308        | [https://github.com/m3gan-m/CIDM-6308](https://github.com/m3gan-m/CIDM-6308)
+CIDM 5310        | [https://github.com/m3gan-m/CIDM5310](https://github.com/m3gan-m/CIDM5310)
+CIDM 6308        | [https://github.com/m3gan-m/CIDM-6308](https://github.com/m3gan-m/CIDM-6308)
 &nbsp;
 ***Data Mining and Management***                 | ***&nbsp;***
 Courses taken: CIDM 6350, CIDM 6351       | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
