@@ -11,7 +11,7 @@ Develop the 2-3 page assessment of your competency in Data Analytics with the el
 
 ## MS CISBA CAPSTONE AREAS
 
-*Reference link for the WTAMU Graduate Catalog which describes the requirements of the MS-CISBA program.*        | **[LINK](https://catalog.wtamu.edu/preview_program.php?catoid=30&poid=4839&returnto=2643)**
+*Reference link for the WTAMU Graduate Catalog which describes the requirements of the MS-CISBA program:*[LINK](https://catalog.wtamu.edu/preview_program.php?catoid=30&poid=4839&returnto=2643)**
 
 >The MS CISBA program is designed for students who want to improve their understanding of computer applications in the following areas:
 >Quantitative analysis
