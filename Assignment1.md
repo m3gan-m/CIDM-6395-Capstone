@@ -3,9 +3,9 @@ Develop the 2-3 page assessment of your competency in Data Analytics with the el
 
 # Evolution 1 - Assessing Data Analytics
 
->For each evolution, I will want you to assess and develop an account of the follow for each of the aspects of developing a portfolio of what you've accomplished in the curriculum:&nbsp;
->    - What do you know - Competencies, skills, and knowledge where you are the most confident and proficient&nbsp;
->    - Where are you weak - Competencies, skills, and knowledge where you are the lest confident and proficient&nbsp;
+>For each evolution, assess and develop an account of the follow for each of the aspects of developing a portfolio of what you've accomplished in the curriculum:
+>    - What do you know - Competencies, skills, and knowledge where you are the most confident and proficient
+>    - Where are you weak - Competencies, skills, and knowledge where you are the lest confident and proficient
 >    - What do you wish you knew and/or don't realize you are missing
 
 
