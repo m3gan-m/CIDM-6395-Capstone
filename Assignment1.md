@@ -4,12 +4,28 @@ Use Markdown to create this as this work, and all work for the portofolio, will 
 You will use Markdown for this: https://betterprogramming.pub/master-markdown-in-ten-minutes-ce9721c51eb
 
 
-# Degree Checklist Entity Relationship Diagram (ERD)
+# Evolution 1 - Assessing Data Analytics
 
-ERD                      | ERD Components
+For each evolution, I will want you to assess and develop an account of the follow for each of the aspects of developing a portfolio of what you've accomplished in the curriculum:
+•	What do you know - Competencies, skills, and knowledge where you are the most confident and proficient
+•	Where are you weak - Competencies, skills, and knowledge where you are the lest confident and proficient
+•	What do you wish you knew and/or don't realize you are missing
+
+
+CAPSTONE AREAS                      | &nbsp;
 ---                             | ---
-***Entity***                 | ***List below***
+***Data Analytics***                 | ***List below***
 Defintion        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
+&nbsp;***Data Mining and Management***                 | ***List below***
+Defintion        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
+&nbsp;***Systems Development***                 | ***List below***
+Defintion        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
+&nbsp;***Networking and Cybersecurity***                 | ***List below***
+Defintion        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
+&nbsp;
+&nbsp;
+***Contribution to Capstone**                 | ***How the four areas are integratable** 
+•	Why Data Analytics is integratable with the other areas       | Add here
 &nbsp;
 ***Relationship***                 | ***List below***
 Definition           | A relationship in an ERD defines how two entities are related to each other. They can be derived from verbs when speaking about a database or a set of entities.
