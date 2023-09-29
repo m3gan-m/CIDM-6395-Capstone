@@ -9,8 +9,15 @@ Develop the 2-3 page assessment of your competency in Data Analytics with the el
 >    - What do you wish you knew and/or don't realize you are missing
 
 
-## CAPSTONE AREAS
+## MS CISBA CAPSTONE AREAS
 *Reference link for the WTAMU Graduate Catalog which describes the requirements of the MS-CISBA program.*        | **[LINK](https://catalog.wtamu.edu/preview_program.php?catoid=30&poid=4839&returnto=2643)**
+The program is designed for students who want to improve their understanding of computer applications in the following areas:
+>Quantitative analysis
+>Data analytics
+>Computing and data mining
+>Web and mobile development
+>Business integration and cybersecurity
+>Technology planning and project management
 ---                             | ---
 ***Data Analytics***                 | ***List below***
 Defintion        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
