@@ -23,7 +23,7 @@ Defintion        | An entity is a thing that can have data stored about it. It c
 &nbsp;
 &nbsp;
 **Contribution to Capstone**                 | *How the four areas are integratable*
-⋅⋅⋅•	Why Data Analytics is integratable with the other areas       | Add here
+⋅⋅⋅ •	Why Data Analytics is integratable with the other areas       | Add here
 ⋅⋅⋅•	How Data Analytics is integratable with the other areas       | Add here
 ⋅⋅⋅•	How Data Analytics is integratable with your prior work       | Add here
 ⋅⋅⋅•	What new statement can you make that that demonstrates that these all fit       | Add here
