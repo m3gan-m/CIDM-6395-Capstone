@@ -11,7 +11,7 @@ Develop the 2-3 page assessment of your competency in Data Analytics with the el
 
 ## MS CISBA CAPSTONE AREAS
 
-*Reference link for the WTAMU Graduate Catalog which describes the requirements of the MS-CISBA program:*[LINK](https://catalog.wtamu.edu/preview_program.php?catoid=30&poid=4839&returnto=2643)**
+*Reference link for the WTAMU Graduate Catalog which describes the requirements of the MS-CISBA program: [LINK](https://catalog.wtamu.edu/preview_program.php?catoid=30&poid=4839&returnto=2643)*
 
 >The MS CISBA program is designed for students who want to improve their understanding of computer applications in the following areas:
 >Quantitative analysis
@@ -27,20 +27,26 @@ AREA                      | DESCRIPTION
 ***Data Analytics***        | ***&nbsp;***
 Courses taken: CIDM 5310, CIDM 6308        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
 Samples of work        | &nbsp;
-CIDM 5310        | https://github.com/m3gan-m/CIDM5310
-CIDM 6308        | https://github.com/m3gan-m/CIDM-6308
+CIDM 5310        | [https://github.com/m3gan-m/CIDM5310](https://github.com/m3gan-m/CIDM5310)
+CIDM 6308        | [https://github.com/m3gan-m/CIDM-6308](https://github.com/m3gan-m/CIDM-6308)
 &nbsp;
 ***Data Mining and Management***                 | ***&nbsp;***
 Courses taken: CIDM 6350, CIDM 6351       | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
 Samples of work        | &nbsp;
+CIDM 6350        | [https://github.com/m3gan-m/CIDM-6350](https://github.com/m3gan-m/CIDM-6350)
+CIDM 6351        | [https://github.com/m3gan-m/CIDM-6351](https://github.com/m3gan-m/CIDM6351)
 &nbsp;
 ***Systems Development***                 | ***&nbsp;***
 Courses taken: CIDM 6303, CIDM 6325        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
 Samples of work        | &nbsp;
+CIDM 6303        | [https://github.com/m3gan-m/CIDM-6303](https://github.com/m3gan-m/CIDM-6303)
+CIDM 6325        | [https://github.com/m3gan-m/CIDM-6325](https://github.com/m3gan-m/CIDM-6325)
 &nbsp;
 ***Networking and Cybersecurity***                 | ***&nbsp;***
 Courses taken: CIDM 6340, CIDM 6341        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
-Samples of work        | Add here
+Samples of work        | &nbsp;
+CIDM 6340        | [https://github.com/m3gan-m/CIDM-6340](https://github.com/m3gan-m/CIDM-6340)
+CIDM 6341        | [https://github.com/m3gan-m/CIDM-6341](https://github.com/m3gan-m/CIDM-6341)
 &nbsp;
 &nbsp;
 
