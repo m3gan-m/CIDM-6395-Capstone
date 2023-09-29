@@ -15,11 +15,12 @@ Develop the 2-3 page assessment of your competency in Data Analytics with the el
 
 >The MS CISBA program is designed for students who want to improve their understanding of computer applications in the following areas:
 >Quantitative analysis<br>
->Data analytics
->Computing and data mining
->Web and mobile development
->Business integration and cybersecurity
+>Data analytics<br>
+>Computing and data mining<br>
+>Web and mobile development<br>
+>Business integration and cybersecurity<br>
 >Technology planning and project management
+>⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
 
 ## FOUR AREAS
 AREA                      | DESCRIPTION
