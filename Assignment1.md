@@ -42,7 +42,9 @@ Samples of work        | Add here
 &nbsp;
 
 
-##  **Contribution to Capstone**                 | *How the four areas are integratable*
+##  Contribution to Capstone  *How the four areas are integratable*
+QUESTION                      | RESPONSE
+---                             | ---
 •	Why Data Analytics is integratable with the other areas       | Add here
 •	How Data Analytics is integratable with the other areas       | Add here
 •	How Data Analytics is integratable with your prior work       | Add here
