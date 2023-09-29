@@ -70,5 +70,5 @@ Preview
 ![myimage-alt-tag](https://github.com/m3gan-m/CIDM-6325/blob/06135ce2f99b222cf9e59f719f29b857d0d4de1c/Assignments/degreechecklist/Assignment%202%20Modeling.drawio.png)
 
 This README file is constructed using [MarkDown](https://www.markdownguide.org/basic-syntax).
-[Adam P's markdown cheatsheet]([https://commonmark.org/help/](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[Common Markdown help list]([https://commonmark.org/help/](https://commonmark.org/help/)https://commonmark.org/help/)
+[Adam P's markdown cheatsheet](https://commonmark.org/help/](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+[Common Markdown help list](https://commonmark.org/help/](https://commonmark.org/help/)https://commonmark.org/help/)
