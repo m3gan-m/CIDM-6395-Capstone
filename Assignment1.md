@@ -28,14 +28,6 @@ Defintion        | An entity is a thing that can have data stored about it. It c
 ⋅⋅⋅•	How Data Analytics is integratable with your prior work       | Add here
 ⋅⋅⋅•	What new statement can you make that that demonstrates that these all fit       | Add here
 &nbsp;
-***Relationship***                 | ***List below***
-Definition           | A relationship in an ERD defines how two entities are related to each other. They can be derived from verbs when speaking about a database or a set of entities.
-&nbsp;
-***Attribute***                 | ***List below***
-Definition         | An attribute is a property of an entity or something that can be used to describe an entity. They are often represented as ovals, or as entries inside an entity.
-There are several different types of attributes represented on an ERD:         | Simple: an attribute that cannot be split into other attributes, such as a first name.
-&nbsp;        | Composite: an attribute that can be split into other attributes, such as name being split into first, middle, and last name.
-&nbsp;       | Derived: an attribute that is calculated or determined from another attribute, such as the age of record being calculated from the created date.
 
 &nbsp;
 
