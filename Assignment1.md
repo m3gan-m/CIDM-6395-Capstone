@@ -21,6 +21,8 @@ Develop the 2-3 page assessment of your competency in Data Analytics with the el
 >Technology planning and project management
 
 ## Four Areas
+ERD                      | ERD Components
+---                             | ---
 ***Data Analytics***        | ***List below***
 Defintion        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
 &nbsp;***Data Mining and Management***                 | ***List below***
