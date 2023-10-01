@@ -29,6 +29,9 @@ Courses taken: CIDM 5310, CIDM 6308        | An entity is a thing that can have 
 Samples of work        | &nbsp;
 CIDM 5310        | [https://github.com/m3gan-m/CIDM5310](https://github.com/m3gan-m/CIDM5310)
 CIDM 6308        | [https://github.com/m3gan-m/CIDM-6308](https://github.com/m3gan-m/CIDM-6308)
+What do you know        | In this area of the MS CISBA degree, Data Analytics is an area I have more familiarity with. 
+Where are you weak        | I would say the areas I'm weaker consist of...
+What do you wish you knew and/or don't realize you are missing        | TBD
 &nbsp;
 ***Data Mining and Management***                 | ***&nbsp;***
 Courses taken: CIDM 6350, CIDM 6351       | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
