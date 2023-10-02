@@ -34,19 +34,19 @@ Where are you weak        | While I have some experience, I would say I do not h
 What do you wish you knew and/or don't realize you are missing        | Through the Data Analytics courses I have taken so far through this degree, I have found I need better practice and experience completing certain processes using REST API, VPS servers, myPHPadmin, Jupyter notebooks, etc. During the semester I completed CIDM 5310, I worked through many challenges in understanding how to set these programs up to function properly, sometimes needing reinstalls due to needing to reset a root password. While the concept of using some programs seems straightforward, the actual work while in them felt more complicated and less intuitive. I feel spending more time with peers or instructors could aid in learning best use methods for completing necessary actions.
 &nbsp;
 ***Data Mining and Management***                 | ***&nbsp;***
-What is it; Why is it important       | TBD.
+What is it; Why is it important       | In cybersecurity, machine learning algorithms use data minging techniques to improve their ability to detect a wider range of cyber attacks. Teams can also employ reinforcement learning to automate repetitive tasks, resulting in more efficient IT and security processes. This ensures a reliable, secure, and accurate data analysis process.
 Samples of work        | &nbsp;
 CIDM 6350        | [https://github.com/m3gan-m/CIDM-6350](https://github.com/m3gan-m/CIDM-6350)
 CIDM 6351        | [https://github.com/m3gan-m/CIDM-6351](https://github.com/m3gan-m/CIDM6351)
 &nbsp;
 ***Systems Development***                 | ***&nbsp;***
-What is it; Why is it important        | TBD.
+What is it; Why is it important        | Integrating data analysis in software and system development is a must. Doing so enables data-driven decision-making throughout the different areas of the development process. Data-driven decisions lead to more successful outcomes and reduced development risks.
 Samples of work        | &nbsp;
 CIDM 6303        | [https://github.com/m3gan-m/CIDM-6303](https://github.com/m3gan-m/CIDM-6303)
 CIDM 6325        | [https://github.com/m3gan-m/CIDM-6325](https://github.com/m3gan-m/CIDM-6325)
 &nbsp;
 ***Networking and Cybersecurity***                 | ***&nbsp;***
-What is it; Why is it important        | TBD.
+What is it; Why is it important        | A large benefit of big data analytics for networking and cybersecurity is to detect and respond to digital threats. Being quick and effortless is key. Data anlysis tools can provide detailed alerts and reports, outlining the nature and severity of a problem and tips to mitigate future digital threat attempts. Combining data mining and cybersecurity allows for determining features of cyber attacks and improving attack detection processes long term.
 Samples of work        | &nbsp;
 CIDM 6340        | [https://github.com/m3gan-m/CIDM-6340](https://github.com/m3gan-m/CIDM-6340)
 CIDM 6341        | [https://github.com/m3gan-m/CIDM-6341](https://github.com/m3gan-m/CIDM-6341)
