@@ -25,7 +25,7 @@ Develop the 2-3 page assessment of your competency in Data Analytics with the el
 AREA                      | DESCRIPTION
 ---                             | ---
 ***Data Analytics***        | ***&nbsp;***
-What is it; Why is it important?        | Data analytics is integral to business because it allows leadership to create evidence-based strategy, understand customers to better target marketing initiatives, and increase overall productivity. A data analyst’s role is to organize, interpret, and extract valuable insights from data sets in order to support a company in making data-driven decisions.
+What is it; Why is it important?        | Data analytics is integral to business because it allows leadership to create evidence-based strategy, understand customers to better target marketing initiatives, and increase overall productivity. A data analyst’s role is to organize, interpret, and extract valuable insights from data sets in order to support a company in making data-driven decisions. Through knowing and analyzing information, data analysts can make data informed recommendations on how to offer a stronger product or service. 
 Samples of work        | &nbsp;
 CIDM 5310        | [https://github.com/m3gan-m/CIDM5310](https://github.com/m3gan-m/CIDM5310)
 CIDM 6308        | [https://github.com/m3gan-m/CIDM-6308](https://github.com/m3gan-m/CIDM-6308)
@@ -34,19 +34,19 @@ Where are you weak        | While I have some experience, I would say I do not h
 What do you wish you knew and/or don't realize you are missing        | Through the Data Analytics courses I have taken so far through this degree, I have found I need better practice and experience completing certain processes using REST API, VPS servers, myPHPadmin, Jupyter notebooks, etc. During the semester I completed CIDM 5310, I worked through many challenges in understanding how to set these programs up to function properly, sometimes needing reinstalls due to needing to reset a root password. While the concept of using some programs seems straightforward, the actual work while in them felt more complicated and less intuitive. I feel spending more time with peers or instructors could aid in learning best use methods for completing necessary actions.
 &nbsp;
 ***Data Mining and Management***                 | ***&nbsp;***
-What is it; Why is it important       | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
+What is it; Why is it important       | TBD.
 Samples of work        | &nbsp;
 CIDM 6350        | [https://github.com/m3gan-m/CIDM-6350](https://github.com/m3gan-m/CIDM-6350)
 CIDM 6351        | [https://github.com/m3gan-m/CIDM-6351](https://github.com/m3gan-m/CIDM6351)
 &nbsp;
 ***Systems Development***                 | ***&nbsp;***
-What is it; Why is it important        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
+What is it; Why is it important        | TBD.
 Samples of work        | &nbsp;
 CIDM 6303        | [https://github.com/m3gan-m/CIDM-6303](https://github.com/m3gan-m/CIDM-6303)
 CIDM 6325        | [https://github.com/m3gan-m/CIDM-6325](https://github.com/m3gan-m/CIDM-6325)
 &nbsp;
 ***Networking and Cybersecurity***                 | ***&nbsp;***
-What is it; Why is it important        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
+What is it; Why is it important        | TBD.
 Samples of work        | &nbsp;
 CIDM 6340        | [https://github.com/m3gan-m/CIDM-6340](https://github.com/m3gan-m/CIDM-6340)
 CIDM 6341        | [https://github.com/m3gan-m/CIDM-6341](https://github.com/m3gan-m/CIDM-6341)
@@ -55,7 +55,7 @@ CIDM 6341        | [https://github.com/m3gan-m/CIDM-6341](https://github.com/m3g
 
 
 ##  Contribution to Capstone  
-QUESTION                      | RESPONSE
+QUESTION                      | RESPONSE - In  Progress
 ---                             | ---
 •	Why Data Analytics is integratable with the other areas       | *The application of business intelligence using logistic regression, linear regression modeling, hypotheses testing, machine learning tools, and predictive modeling all builds an end goal of practical application of statistical tools in business for any MS CISBA student and is why Data Analytics is a critical segement of the degree plan.*
 •	How Data Analytics is integratable with the other areas       | *The study of the creation, acquisition and analysis of data for the purpose of decision support is key in shaping how Data Anaytics integrates alongside the three other areas of Data Mining and Management, Systems development and Networking and Cybersecurity.*
