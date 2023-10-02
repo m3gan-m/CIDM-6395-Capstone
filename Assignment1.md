@@ -25,7 +25,7 @@ Develop the 2-3 page assessment of your competency in Data Analytics with the el
 AREA                      | DESCRIPTION
 ---                             | ---
 ***Data Analytics***        | ***&nbsp;***
-Courses taken: CIDM 5310, CIDM 6308        | An entity is a thing that can have data stored about it. It can be a physical object (e.g. car, person), a concept (e.g. address) or an event (e.g. student enrolment in a course). They represent nouns.
+What is it; Why is it important?        | Data analytics is integral to business because it allows leadership to create evidence-based strategy, understand customers to better target marketing initiatives, and increase overall productivity.
 Samples of work        | &nbsp;
 CIDM 5310        | [https://github.com/m3gan-m/CIDM5310](https://github.com/m3gan-m/CIDM5310)
 CIDM 6308        | [https://github.com/m3gan-m/CIDM-6308](https://github.com/m3gan-m/CIDM-6308)
