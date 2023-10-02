@@ -1,5 +1,5 @@
 # CIDM6395 - Assignment 1
-Develop the 2-3 page assessment of your competency in Data Analytics with the elements of supporting evidence.  
+Develop a 2-3 page assessment of your competency in Data Analytics with the elements of supporting evidence.  
 
 # Evolution 1 - Assessing Data Analytics
 
