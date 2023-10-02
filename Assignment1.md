@@ -65,13 +65,6 @@ QUESTION                      | RESPONSE - In  Progress
 
 &nbsp;
 
-**Diagram Image made using DrawIO**
-* [Degree Checklist Diagram](https://github.com/m3gan-m/CIDM-6325/blob/e5bd5f1a884cbb889b2867e947d09ad55da1710b/Assignments/degreechecklist/Assignment%202%20Modeling.drawio) 
-
-Preview
-
-![myimage-alt-tag](https://github.com/m3gan-m/CIDM-6325/blob/06135ce2f99b222cf9e59f719f29b857d0d4de1c/Assignments/degreechecklist/Assignment%202%20Modeling.drawio.png)
-
 This README file is constructed using [MarkDown](https://www.markdownguide.org/basic-syntax).<br>
 [Adam P's markdown cheatsheet](https://commonmark.org/help/](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
 [Common Markdown help list](https://commonmark.org/help/](https://commonmark.org/help/)https://commonmark.org/help/)
