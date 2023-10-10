@@ -12,15 +12,7 @@ Develop a 2-3 page assessment of your competency in Data Management with the ele
 ## MS CISBA CAPSTONE AREAS
 
 *Reference link for the WTAMU Graduate Catalog which describes the requirements of the MS-CISBA program: [LINK](https://catalog.wtamu.edu/preview_program.php?catoid=30&poid=4839&returnto=2643)*
-
->The MS CISBA program is designed for students who want to improve their understanding of computer applications in the following areas:
->    - Quantitative analysis<br>
->    - Data analytics<br>
->    - Computing and data mining<br>
->    - Web and mobile development<br>
->    - Business integration and cybersecurity<br>
->    - Technology planning and project management
-
+<br>
 ## FOUR AREAS - FOCUS IS DATA MANAGEMENT
 AREA                      | DESCRIPTION
 ---                             | ---
