@@ -19,8 +19,8 @@ AREA                      | DESCRIPTION
 ***Data Mining and Management***                 | ***&nbsp;***
 What is it; Why is it important       | In cybersecurity, machine learning algorithms use data minging techniques to improve their ability to detect a wider range of cyber attacks. Teams can also employ reinforcement learning to automate repetitive tasks, resulting in more efficient IT and security processes. This ensures a reliable, secure, and accurate data analysis process.
 Samples of work        | &nbsp;
-CIDM 6350        | Data and Information Management [https://github.com/m3gan-m/CIDM-6350](https://github.com/m3gan-m/CIDM-6350)
-CIDM 6351        | Business Data Extraction, Transformation, and Load [https://github.com/m3gan-m/CIDM-6351](https://github.com/m3gan-m/CIDM6351)
+CIDM 6350        | Data and Information Management: [https://github.com/m3gan-m/CIDM-6350](https://github.com/m3gan-m/CIDM-6350)
+CIDM 6351        | Business Data Extraction, Transformation, and Load: [https://github.com/m3gan-m/CIDM-6351](https://github.com/m3gan-m/CIDM6351)
 What do you know        | Add here.
 Where are you weak        | Add here.
 What do you wish you knew and/or don't realize you are missing        | Add here.
