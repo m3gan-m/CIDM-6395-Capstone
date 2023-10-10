@@ -1,7 +1,7 @@
 # CIDM6395 - Assignment 2
-Develop a 2-3 page assessment of your competency in Data Analytics with the elements of supporting evidence.  
+Develop a 2-3 page assessment of your competency in Data Management with the elements of supporting evidence.  
 
-# Evolution 1 - Assessing Data Analytics
+# Evolution 2 - Assessing Data Management
 
 >For each evolution, assess and develop an account of the follow for each of the aspects of developing a portfolio of what you've accomplished in the curriculum:
 >    - What do you know - Competencies, skills, and knowledge where you are the most confident and proficient
