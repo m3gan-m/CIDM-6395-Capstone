@@ -1,5 +1,5 @@
 # CIDM6395 - Assignment 3
-Develop a 2-3 page assessment of your competency in Data Analytics with the elements of supporting evidence.  
+Develop a 2-3 page assessment of your competency in Systems Development with the elements of supporting evidence.  
 
 # Evolution 3 - Assessing Systems Development
 
