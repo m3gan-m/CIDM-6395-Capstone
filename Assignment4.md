@@ -2,7 +2,7 @@
 Develop a 2-3 page assessment of your competency in Networking & Cybersecurity with the elements of supporting evidence.  
 
 ---
-IN PROGRESS
+ASSIGNMENT IN PROGRESS
 ---
 
 # Evolution 4 - Assessing Networking and Cybersecurity
