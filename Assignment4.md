@@ -1,6 +1,10 @@
 # CIDM6395 - Assignment 4
 Develop a 2-3 page assessment of your competency in Networking & Cybersecurity with the elements of supporting evidence.  
 
+---
+IN PROGRESS
+---
+
 # Evolution 4 - Assessing Networking and Cybersecurity
 
 >For each evolution, assess and develop an account of the follow for each of the aspects of developing a portfolio of what you've accomplished in the curriculum:
