@@ -1,3 +1,5 @@
+View in [Github Pages](https://tomcam.github.io/least-github-pages/) or directly on [Github](https://github.com/tomcam/least-github-pages/) 
+* [Your GitHub Pages URL and adding preview to your README.md](/least-github-pages/add-github-pages-preview.html)
 # CIDM6395 - Assignment 1
 Develop a 2-3 page assessment of your competency in Data Analytics with the elements of supporting evidence.  
 
